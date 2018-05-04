@@ -7,6 +7,9 @@ Show an invoice to the User with a javascript payment button. Once payment is re
 
 This code is intended as educational reference material and is not written for production use.
 
+# Live Demo
+http://board.bitcoinexamples.com/
+
 # Instructions
 * Clone the git repository into the ROOT of your web server.
 * cd /www/receive_payment_php_demo
