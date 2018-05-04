@@ -8,7 +8,7 @@ Show an invoice to the User with a javascript payment button. Once payment is re
 This code is intended as educational reference material and is not written for production use.
 
 # Live Demo
-http://board.bitcoinexamples.com/
+http://simpleshop.bitcoinexamples.com
 
 # Instructions
 * Clone the git repository into the ROOT of your web server.
@@ -19,3 +19,5 @@ http://board.bitcoinexamples.com/
 * http://your_site/receive_payment_php_demo/setup.php
 * Now the database is initialized open the demo
 * http://your_site/receive_payment_php_demo/index.php
+
+Read more at https://apirone.com/integrations/bitcoin-simple-shop
