@@ -33,7 +33,7 @@ if (array_key_exists('test', $_GET) and $_GET['test'] == true) {
   return;
 }
 
-if ($_GET['address'] != $my_bitcoin_address) {
+if ($_GET['destination_address'] != $my_bitcoin_address) {
     echo 'Incorrect Receiving Address';
   return;
 }
